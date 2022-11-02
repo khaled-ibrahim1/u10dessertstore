@@ -8,11 +8,12 @@ https://raw.githubusercontent.com/khaled-ibrahim1/u10dessertstore/main/hem'.jpg
 1.Clone the repository
 2.Run npm install in the api root
 3.Run npm install in the client root
-4.change the .env.example to .env
-5.Run npm start in the api root
-6.Run npm start in the client root
-7.go to localhost:3000 in the browser to see the frontend of the website
-8.go to localhost:5000 in the browser and you should see "server start"
+4.change the .env.example to .env in the api folder
+5.change the .env.example to .env in the client folder
+6.Run npm start in the api root
+7.Run npm start in the client root
+8.go to localhost:3000 in the browser to see the frontend of the website
+9.go to localhost:5000 in the browser and you should see "server start"
 
 ## Username
 admin user: username:storeadmin1 password:admin123
