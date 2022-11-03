@@ -50,4 +50,14 @@ https://u10dessertstore.netlify.app/adminpage
 https://u10dessertstore.netlify.app/user/:userId
 
 https://u10dessertstore.netlify.app/CreateNewUser
+ 
+Product name/id
 
+Chocolate chip cookies 10 st/63629b308202b12eaf6f9594
+Äpplepaj/63628f9e9c76613f26c9324a
+Smulpaj med bärmix/63629a738202b12eaf6f9590
+Chokladbollar/63629b988202b12eaf6f9596
+Chokladkaka/63629bf98202b12eaf6f9598
+Creme brulee/63629c9b8202b12eaf6f959a
+Frukttårta/63629d298202b12eaf6f959c
+Strawberry chessecake/63629e058202b12eaf6f959f
