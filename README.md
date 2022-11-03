@@ -2,7 +2,6 @@
 Dessert webshop built with react, mongodb, nodejs, stripe api
 Frontend url:https://u10dessertstore.netlify.app
 Backend url:https://u10dessertshopapi.herokuapp.com/
-https://raw.githubusercontent.com/khaled-ibrahim1/u10dessertstore/main/hem'.jpg
 
 ## Get started
 
